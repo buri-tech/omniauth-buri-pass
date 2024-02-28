@@ -29,7 +29,7 @@ GEM
       oauth2 (>= 1.4, < 3)
       omniauth (~> 2.0)
     prettier_print (1.2.1)
-    rack (3.0.8)
+    rack (3.0.9.1)
     rack-protection (3.0.6)
       rack
     rake (13.0.6)
@@ -43,6 +43,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-22
+  x86_64-linux
 
 DEPENDENCIES
   omniauth-buri-pass!
